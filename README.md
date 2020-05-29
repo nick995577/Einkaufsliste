@@ -2,6 +2,8 @@
 
 ## Eine kleine Markdown Aufgabe
 
+![Bild](/Bild.jpg)
+
 * **Name**: Walter Sicher
 
 * **Geburtstag**: 23.09.1735
